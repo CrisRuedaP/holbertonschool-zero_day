@@ -1,1 +1,1 @@
-This file is mandatory in all Holberton School projects
+ReadMe, its easy to build a developer hub that adapts to the user, is always up to date, and looks great.
