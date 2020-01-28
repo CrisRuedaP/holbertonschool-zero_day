@@ -1,0 +1,1 @@
+The vi editor is the most popular and classic text editor in the Linux family.It works in two modes, Command and Insert.
